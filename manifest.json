@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Random Wallpaper Generator",
+    "version": "1.0",
+    "description": "Displays a random wallpaper every time a new tab is opened.",
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    },
+    "permissions": [],
+    "action": {
+      "default_title": "Random Wallpaper Generator"
+    }
+  }
+  
